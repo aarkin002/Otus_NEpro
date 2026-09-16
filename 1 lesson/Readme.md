@@ -27,20 +27,38 @@
 
 <img src="/1 lesson/img/0.png" alt="Alt text"/>
 
+#### Настрока коммутатора SW3
+
 <img src="/1 lesson/img/1.png" alt="Alt text"/>
+
+#### Настрока коммутатора SW2
 
 <img src="/1 lesson/img/2.png" alt="Alt text"/>
 
+#### Настрока коммутатора SW4 (SW5 настроен по аналогии)
+
 <img src="/1 lesson/img/3.png" alt="Alt text"/>
+
+#### Настрока маршрутизатора R12 
 
 <img src="/1 lesson/img/4.png" alt="Alt text"/>
 
+#### Настрока маршрутизатора R13 (R28 настроен по аналогии со своими вланами)
+
 <img src="/1 lesson/img/5.png" alt="Alt text"/>
+
+#### Настрока коммутатора SW29 + пинг с vpc31 и vpc30
 
 <img src="/1 lesson/img/6.png" alt="Alt text"/>
 
+#### Настрока маршрутизатора R17 + пинг с ПК
+
 <img src="/1 lesson/img/7.png" alt="Alt text"/>
 
+#### Настрока маршрутизатора R16 + пинг с ПК
+
 <img src="/1 lesson/img/8.png" alt="Alt text"/>
+
+#### Настрока маршрутизатора R18 остальные роутеры соединяюще роутеры - настроены по аналогии
 
 <img src="/1 lesson/img/9.png" alt="Alt text"/>
