@@ -1,13 +1,31 @@
+## Домашнее задание
+
 <img src="/2 lesson/img/0.png" alt="Alt text"/>
 
+#### Создаем ACL листы
 
-
-<img src="/2 lesson/img/1.png" alt="Alt text"/>
 <img src="/2 lesson/img/2.png" alt="Alt text"/>
+
+#### Создаем роуте мап на 2 ACL листа ( здесь на картинке карта уже привязана к интерфейсу, но для наглядности я отвязал ее )
+
 <img src="/2 lesson/img/3.png" alt="Alt text"/>
+
+#### Проверка route-map осуществляется в 4 этапа :
+1. Задаем стат маршурт на r25 до vpc30-31
+2. Задаем стат маршурт на r26 до vpc30-31
+3. Пока не привязана карта проверяем пинг с vpc 30 (скрин слева сверху)
+4. На r28 привязываем карту на int e0/2.10 (скрин справа снизу), проверяем пинг (на левых скринах под цифрами 4)
+
 <img src="/2 lesson/img/4.png" alt="Alt text"/>
+
+#### Настраиваем IP SLA и проверяем
+
 <img src="/2 lesson/img/5.png" alt="Alt text"/>
 <img src="/2 lesson/img/6.png" alt="Alt text"/>
+
+#### Настраиваем статический маршрут Лабытнанги
+
+<img src="/2 lesson/img/1.png" alt="Alt text"/>
 
 
 
